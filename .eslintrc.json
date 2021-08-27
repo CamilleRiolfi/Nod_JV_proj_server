@@ -16,7 +16,8 @@
     "no-shadow":"off",
     "no-await-in-loop":"off",
     "no-restricted-syntax": "off",
-    "no-async-promise-executor":"off"
+    "no-async-promise-executor":"off",
+    "eqeqeq":"off",
   },
   "plugins": [
     "import"
